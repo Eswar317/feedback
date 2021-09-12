@@ -19,7 +19,7 @@ if(isset($_POST['save']))
   if($result)
   {
     /*$_SESSION['message'] = "Thanks for giving your feedback...!";
-    header('location: index.html');
+    header('location: index.php');
     <?php
         if(isset($_SESSION['message']))
         {
